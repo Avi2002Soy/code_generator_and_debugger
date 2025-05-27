@@ -1,3 +1,4 @@
 transformers
 streamlit
 torch
+accelerate>=0.26.0
